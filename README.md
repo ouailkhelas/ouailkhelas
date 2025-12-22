@@ -2,7 +2,7 @@
 <h3 align="center">☁️ Cloud Architect & DevOps Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Cloud+Architecture+Expert;DevOps+%26+Automation+Lover;Infrastructure+as+Code+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Cloud+Architecture;DevOps+%26+Automation+Lover;Infrastructure+as+Code+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,8 +10,8 @@
 ### 👨‍💻 About Me
 
 - 🔭 I'm currently working on **Cloud Infrastructure & DevOps Solutions**
-- 🌱 I'm continuously learning **Kubernetes, Terraform, and Cloud-Native Technologies**
-- 💬 Ask me about **AWS, Azure, GCP, Docker, Kubernetes, CI/CD**
+- 🌱 I'm continuously learning **Kubernetes, AWS , and Cloud-Native Technologies**
+- 💬 Ask me about **Azure, Docker, Terraform(IAC), Github Action(CI/CD)**
 - ⚡ Fun fact: **I automate everything I can!**
 
 ---
@@ -20,8 +20,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ouailkhelas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MikeCodeur&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MikeCodeur&theme=tokyonight&hide_border=true&hide_title=true&hide_rank=true" alt="GitHub Streak" height="170"/></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeCodeur&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
