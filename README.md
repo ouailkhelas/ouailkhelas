@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm OUAIL KHELAS</h1>
+<h1 align="center">Hi 👋, I'm OUAIL MOKHTAR KHELAS</h1>
 <h3 align="center">☁️ Cloud Architect & DevOps Enthusiast</h3>
 
 <p align="center">
@@ -10,21 +10,9 @@
 ### 👨‍💻 About Me
 
 - 🔭 I'm currently working on **Cloud Infrastructure & DevOps Solutions**
-- 🌱 I'm continuously learning **Kubernetes, AWS , and Cloud-Native Technologies**
+- 🌱 I'm continuously learning **Kubernetes, AWS, and Cloud-Native Technologies**
 - 💬 Ask me about **Azure, Docker, Terraform(IAC), Github Action(CI/CD)**
 - ⚡ Fun fact: **I automate everything I can!**
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ouailkhelas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MikeCodeur&theme=tokyonight&hide_border=true&hide_title=true&hide_rank=true" alt="GitHub Streak" height="170"/></p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeCodeur&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</p>
 
 ---
 
@@ -81,9 +69,14 @@
 
 ---
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MikeCodeur&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ouailkhelas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ouailkhelas&theme=tokyonight&hide_border=true&hide_title=true&hide_rank=true" alt="GitHub Streak" height="170"/>
 </p>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
