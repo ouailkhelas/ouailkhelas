@@ -11,7 +11,7 @@
 ---
 
 ### Cloud is a solution, not just technology !!
-> 🎯 I see Cloud as a Solution, Not Just Technology & Services. This isn't just about infrastructure ,it's about building comprehensive solutions with Azure. I think about pipelines, optimization, and cost efficiency before selecting services. Here you'll find solutions I've architected that balance performance, scalability, and budget. Every project reflects deep thinking about  **CLOUD SOLUTIONS  !** 🚀💡 🌟
+> 🎯 I see Cloud as a Solution, Not Just Technology & Services. This isn't just about infrastructure ,it's about building comprehensive solutions with Azure. I think about pipelines, optimization, and cost efficiency before selecting services. Here you'll find solutions I've architected that balance performance, scalability, and security. Every project reflects deep thinking about  **CLOUD SOLUTIONS  !** 🚀💡 🌟
 
 --- 
 
