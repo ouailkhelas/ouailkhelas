@@ -18,9 +18,9 @@
 ### 👨‍💻 About Me
 
 - 🔭 **Currently Building:** Azure Cloud Infrastructure & Cloud-Native Solutions that scale
-- 🌱 **Learning:** Advanced Terraform patterns, Azure DevOps automation, and Kubernetes orchestration
+- 🌱 **Learning:** Advanced Terraform patterns, Azure DevOps automation
 - 💡 **Passionate About:** Infrastructure as Code (IaC), CI/CD pipelines, container orchestration, and cloud-native architectures
-- 🤝 **Let's Talk About:** Azure, Docker, Terraform, GitHub Actions, Kubernetes, and DevOps best practices
+- 🤝 **Let's Talk About:** Azure, Terraform, GitHub Actions, and DevOps best practices
 - ⚡ **Fun Fact:** I automate EVERYTHING—if I do it twice, it's going in a script! 😄
 
 ---
