@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm OUAIL MOKHTAR KHELAS</h1>
-<h3 align="center">☁️ Cloud Architect & DevOps Enthusiast</h3>
+<h3 align="center">☁️ Azure Cloud Architect </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Cloud+Architecture;DevOps+%26+Automation+Lover;Infrastructure+as+Code+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
@@ -9,8 +9,8 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I'm currently working on **Cloud Infrastructure & DevOps Solutions**
-- 🌱 I'm continuously learning **Kubernetes, AWS, and Cloud-Native Technologies**
+- 🔭 I'm currently working on **Azure Cloud Infrastructure & Cloud-Native Solutions**
+- 🌱 I'm continuously learning **Terraform, Azure DevOps, and Cloud-Native Technologies**
 - 💬 Ask me about **Azure, Docker, Terraform(IAC), Github Action(CI/CD)**
 - ⚡ Fun fact: **I automate everything I can!**
 
