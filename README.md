@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Building+Scalable+Cloud+Infrastructure;Automating+Everything+with+IaC;DevOps+%26+CI%2FCD+Passionate;Turning+Ideas+Into+Cloud+Reality;Always+Exploring+New+Technologies" alt="Typing SVG" />
 </p>
 <div align="center">
-  <img src="image.png" width="480" alt="Azure is the solution"/>
+  <img src="image1.png" width="480" alt="Azure is the solution"/>
   <p><i>"I don't just deploy services — I architect solutions."</i></p>
 </div>
 
