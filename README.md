@@ -101,7 +101,7 @@
   <a href="mailto:mokhtarouailkhelas@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Send%20Email" alt="Gmail"/>
   </a>
-  <a href="https://wa.me/213662942783" target="_blank">
+  <a href="https://wa.me/97450560755" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&label=Chat%20Now" alt="WhatsApp"/>
   </a>
 </p>
